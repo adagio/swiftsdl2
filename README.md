@@ -2,7 +2,7 @@
 
 ## SDL2
 
-(Simple DirectMedia Layer)[https://www.libsdl.org/download-2.0.php]
+[Simple DirectMedia Layer](https://www.libsdl.org/download-2.0.php)
 
 ## Using this docker image
 
