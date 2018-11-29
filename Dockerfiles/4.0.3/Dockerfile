@@ -1,4 +1,4 @@
-FROM swift:4.2.1
+FROM swift:4.0.3
 LABEL maintainer="Franco Cedillo <franco.cedillo@gmail.com>"
 LABEL Description="Docker Container for the Apple's Swift programming language (includes sdl2)"
 

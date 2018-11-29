@@ -10,7 +10,7 @@
 
 Run inside your project
 
-    docker run --rm -v $(pwd):/data swiftsdl2:4.2
+    docker run --rm -v $(pwd):/data adagio/swiftsdl2:4.2
 
 The `-v $(pwd):/data` parameter maps the current directory to the `/data` volume
 
